@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1:hover{
+    color: greenyellow;
+    background-color: aqua;
+}
+h2{
+    color:yellowgreen;
+    background-color: azure;
+}
+p{
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: underline;
+    /* text-decoration: underline wavy; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+li{
+    font-weight: 700;
+}
+.html{
+    color:blue;
+}
+.css{
+    color: green;
+}
+.Javascript{
+    color: greenyellow;
+}
+.react{
+    color: grey;
+}
+.Tailwind{
+    color:aqua;
+}
+#html {
+    font-size: 32px;
+}
+#css{
+    font-size: 32px;
+}
+#js{
+    font-size: 32px;
+}
+#react{
+   font-size: 32px;
+}
+#tail{
+    font-size: 32px;
+}
+[class]{
+    background-color: pink;
+}
+ul p{
+    color: green;
+}
