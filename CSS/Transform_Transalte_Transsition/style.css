@@ -1,0 +1,12 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(127, 255, 212, 0.557);
+    /* transform: scale(1.5);
+    transform:rotate(45deg); */
+    transform: translateY(100%);
+    margin-top: 100px;
+
+    /* transform-origin:20% 20%; */
+    
+}

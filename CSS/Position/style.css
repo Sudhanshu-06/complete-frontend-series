@@ -1,0 +1,40 @@
+div{
+    position: relative;
+    background-color: chartreuse;
+    /* top:5px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    inset: 5px; */
+}
+ul{
+    /* background-color: brown;
+    /* position: relative; */
+    height: 300px;
+    overflow: scroll; */
+}
+.css{
+    /* background-color: aquamarine;
+    position: absolute;
+    top: 56px;
+    left: 5px;
+    right:5px; */
+}
+.js{
+    /* position: fixed;
+    display: none;
+    background-color: blueviolet;
+    inset: 10px; */
+}
+.html{
+    background-color: pink;
+    /* position: sticky; */
+    /* top: 25px; */
+    
+    
+}
+header{
+    position: sticky;
+    background-color: greenyellow;
+    top: 0;
+}
